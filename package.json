@@ -16,10 +16,8 @@
   "author": "Scott Davis <sthomasdavis@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "alexa-app": "^4.0.0",
-    "csv-parse": "^1.2.0",
-    "moment": "^2.18.1",
-    "request": "^2.81.0"
+    "alexa-sdk": "^1.0.10",
+    "lodash.random": "^3.2.0"
   },
   "devDependencies": {
     "chai": "^3.5.0",
@@ -31,5 +29,6 @@
     "timestables.json",
     "burnday.js",
     "index.js"
-  ]
+  ],
+  "false": {}
 }
